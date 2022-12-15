@@ -1,0 +1,5 @@
+music.startMelody(music.builtInMelody(Melodies.PowerUp), MelodyOptions.Once)
+basic.showString("Hello")
+basic.showString("Quanto fa 4+2?")
+basic.showString("" + (4 + 2))
+music.startMelody(music.builtInMelody(Melodies.PowerDown), MelodyOptions.Once)
